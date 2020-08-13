@@ -1,0 +1,34 @@
+.box {
+    width: 100%;
+    height: 100vh;
+    background-color: #1abc9c;
+    
+}
+
+.box .box__col1 {
+    width: 100%;
+    height: 80px;
+    background-color: #16a085;
+}
+
+.box .box__col2 {
+    width: 100%;
+    height: 100%;
+    background-color: #2ecc71;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.box .box__col2 .box__col2__a {
+    width: 50%;
+    height: 100%;
+    background-color: #27ae60;
+}
+
+.box .box__col2 .box__col2__b {
+    width: 50%;
+    height: 200px;
+    background-color: #e67e22;
+    margin-top: 520px;
+}
