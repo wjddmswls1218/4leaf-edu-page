@@ -26,9 +26,10 @@
     background-color: #27ae60;
 }
 
-.box .box__col2 .box__col2__b {
+
+
+.box .box__col2 .box__col2__c {
     width: 50%;
-    height: 200px;
-    background-color: #e67e22;
-    margin-top: 520px;
+    height: 620px;
+    background-color: firebrick;
 }
